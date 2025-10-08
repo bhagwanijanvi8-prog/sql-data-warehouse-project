@@ -38,7 +38,7 @@ GO
 Create Schema silver;
 GO
 
-Create Schema gold
+Create Schema gold;
 GO
 
 
