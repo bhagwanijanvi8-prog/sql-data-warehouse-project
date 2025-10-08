@@ -1,6 +1,6 @@
-# 🏗️ SQL Data Warehouse and Analytics Project
+#  SQL Data Warehouse and Analytics Project
 
-## 📘 Overview
+##  Overview
 
 This project demonstrates how to design, build, and optimize a **Data Warehouse from scratch** using pure **SQL**.  
 It covers every stage of the data engineering lifecycle — from **data extraction** and **cleansing** to **modeling**, **ETL**, and **reporting** — following the **Medallion Architecture** (Bronze → Silver → Gold).
@@ -9,7 +9,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 
 ---
 
-## 🧩 Key Concepts & Fundamentals
+##  Key Concepts & Fundamentals
 
 - **Data Warehouse Purpose:** Centralized system for integrating multiple data sources to enable historical analysis and consistent reporting.
 - **ETL Process:** Core of warehouse development, involving heavy transformations like cleansing, normalization, and integration.
@@ -28,7 +28,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 
 ---
 
-## ⚙️ ETL Workflow
+##  ETL Workflow
 
 ### 🔹 1. Data Extraction & Loading
 - Methods: database connections, file parsing, APIs, event streams, and change data capture.
@@ -48,7 +48,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 
 ---
 
-## 🧱 Data Warehouse Design Principles
+##  Data Warehouse Design Principles
 
 1. Data flows **bronze → silver → gold** only (no shortcuts).  
 2. Add **DW_*** prefix to metadata columns (e.g., `DW_CreateDate`).  
@@ -58,7 +58,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 
 ---
 
-## 📊 Quality & Documentation
+##  Quality & Documentation
 
 - **Data Lineage Diagrams:** visualize flow from sources to gold layer.
 - **Data Catalog:** documents table purpose, columns, and relationships.
@@ -67,7 +67,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 
 ---
 
-## 🧠 Advanced Concepts
+##  Advanced Concepts
 
 - **Slowly Changing Dimensions (SCD):** manage historical records using SCD0, SCD1, and SCD2.
 - **Change Data Capture (CDC):** efficiently track and load data changes.
@@ -76,7 +76,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category | Tools / Technologies |
 |:----------|:---------------------|
