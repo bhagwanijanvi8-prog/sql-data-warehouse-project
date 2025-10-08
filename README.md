@@ -1,4 +1,4 @@
-# 🏗️ SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project
+# 🏗️ SQL Data Warehouse and Analytics Project
 
 ## 📘 Overview
 
