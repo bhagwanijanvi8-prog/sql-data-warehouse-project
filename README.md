@@ -19,7 +19,7 @@ The goal is to create a **robust, scalable, and maintainable data warehouse** th
 ---
 
 ## 🏛️ Medallion Architecture Overview
-![Alt text](docs/Data Architecture.png)
+![image alt](https://github.com/bhagwanijanvi8-prog/sql-data-warehouse-project/blob/082ad6588ec0efdba83f5c539a5e8d159e35da06/docs/Data%20Architecture.png)
 
 | Layer | Purpose | Audience | Example Tasks |
 |:------|:---------|:----------|:---------------|
